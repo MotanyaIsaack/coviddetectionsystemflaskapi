@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+code_cache/
+.vscode/
+app.yaml
+Procfile
